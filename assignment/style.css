@@ -3,10 +3,10 @@ header {
   color: #FFFFFF;
 }
 section{
-border: 2px solid grey;
-margin: auto;
-max-width: 800px;
-width: auto;
+  border: 2px solid grey;
+  margin: auto;
+  max-width: 800px;
+  width: auto;
 
 }
 .info{
@@ -22,6 +22,6 @@ width: auto;
   text-align: center;
 }
 .transportation{
-background-color: red;
-text-align: center;
+  background-color: red;
+  text-align: center;
 }
