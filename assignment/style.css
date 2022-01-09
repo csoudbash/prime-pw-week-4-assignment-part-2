@@ -1,0 +1,27 @@
+header {
+  background-color: #002EAD;
+  color: #FFFFFF;
+}
+section{
+border: 2px solid grey;
+margin: auto;
+max-width: 800px;
+width: auto;
+
+}
+.info{
+  max-width: 800px;
+  width: auto;
+  margin: auto;
+  vertical-align: middle;
+
+
+}
+.name{
+  background-color: gray;
+  text-align: center;
+}
+.transportation{
+background-color: red;
+text-align: center;
+}
